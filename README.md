@@ -35,7 +35,7 @@ Ensure your webcam is connected and your face is well-lit for better tracking.
 
 ## License
 
-MIT License
+[MIT License](LICENSE)
 
 ---
 
